@@ -31,7 +31,7 @@
       "action": "add",
       "args": {
         "name": "cn",
-        "uri": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt",
+        "uri": "https://ruleset.skk.moe/Clash/ip/china_ip.txt",
         "onlyIPType": "ipv4"
       }
     },
