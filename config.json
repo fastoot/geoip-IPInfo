@@ -4,15 +4,8 @@
       "type": "ipinfoCountryMMDB",
       "action": "add",
       "args": {
-        "uri": "./ipinfo/country.mmdb"
-      }
-    },
-    {
-      "type": "cutter",
-      "action": "remove",
-      "args": {
-        "wantedList": ["cn"],
-        "onlyIPType": "ipv4"
+        "uri": "./ipinfo/country.mmdb",
+        "wantedList": ["hk", "jp", "kr", "tw", "us", "my", "il", "tr", "in", "id", "md", "by", "ua", "de", "ru", "fo", "gr", "nl", "be", "fr", "es", "gi", "pt", "lu", "ie", "is", "al", "mt", "cy", "fi", "bg", "hu", "lt", "lv", "ee", "ad", "mc", "sm", "rs", "me", "hr", "si", "ba", "it", "ro", "ch", "cz", "sk", "li", "at", "gb", "im", "je", "gg", "dk", "se", "no", "pl"]
       }
     },
     {
