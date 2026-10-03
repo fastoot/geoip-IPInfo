@@ -1,0 +1,9 @@
+IP-CIDR,5.62.56.160/31,no-resolve
+IP-CIDR,5.62.56.162/32,no-resolve
+IP-CIDR,57.73.214.0/23,no-resolve
+IP-CIDR,103.228.98.0/24,no-resolve
+IP-CIDR,104.28.25.232/30,no-resolve
+IP-CIDR,104.28.25.236/31,no-resolve
+IP-CIDR,104.28.25.238/32,no-resolve
+IP-CIDR,104.29.195.20/30,no-resolve
+IP-CIDR,175.45.176.0/22,no-resolve
